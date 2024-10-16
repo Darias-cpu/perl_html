@@ -1,0 +1,19 @@
+body{
+    background-color: chartreuse;
+    font-family: "Arial Black";
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    color: red;
+}
+button{
+    background-color: darkorchid;
+    padding: 20px;
+    border: none;
+    border-radius: px;
+    cursor: pointer;
+}
+button :hoover{
+
+}
